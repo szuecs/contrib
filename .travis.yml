@@ -31,3 +31,5 @@ install:
   - go get github.com/yvasiyarov/gorelic
 # ginglog
   - go get github.com/golang/glog
+# gomonitor
+  - go get gopkg.in/mcuadros/go-monitor.v1
